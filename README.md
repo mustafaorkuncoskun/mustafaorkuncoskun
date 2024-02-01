@@ -23,5 +23,4 @@
 
 
 
-
 ![snake gif](https://github.com/mustafaorkuncoskun/mustafaorkuncoskun/blob/output/github-contribution-grid-snake.gif)
