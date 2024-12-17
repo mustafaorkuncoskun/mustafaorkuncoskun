@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mustafa Orkun</h1>
-<h3 align="center">Normal engineer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Mustafa Orkun Coşkun</h1>
+<h3 align="center">I am an Electrical and Electronics Engineer currently working as a Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaorkuncoskun&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaorkuncoskun" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafaorkuncoskun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafaorkuncoskun" height="30" width="40" /></a>
-<a href="https://instagram.com/💬 ask me about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="💬 ask me about" height="30" width="40" /></a>
+<a href="https://instagram.com/meuorkuncoskun ask me about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="💬 ask me about" height="30" width="40" /></a>
 <a href="https://discord.gg/orkuncoskun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orkuncoskun" height="30" width="40" /></a>
 </p>
 
