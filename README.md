@@ -15,11 +15,13 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Bachelor’s in Electrical and Electronics Engineering  
-- 💻 Full Stack Developer specializing in Next.js 15, React, Tailwind CSS & Appwrite  
-- 🔐 Experienced with JWT Authentication, Node.js/TypeScript, .NET (C#), MSSQL (Code-First)  
-- 🌐 Real-time data synchronization with WebSockets & Appwrite Realtime API  
-- 📊 Data visualization using Chart.js & Recharts  
+Hello! I’m Mustafa Orkun Coşkun — with a foundation in electrical and electronics engineering, I now focus on crafting user-centric web solutions. I’m a proactive and curious problem-solver across both hardware and software domains.
+
+- ⚡ Passion: Bringing complex data flows to life with real-time dashboards  
+- 🎯 Focus: Performance, scalability, and delivering seamless user experiences  
+- 🛠️ Day-to-day: Building seamless integrations using Next.js, Tailwind CSS, React, and Appwrite  
+- 🚀 Goal: Driving business impact and learning growth through innovative projects  
+- 🌱 Always learning: Rapidly exploring and adopting new libraries and technologies  
 
 ---
 
