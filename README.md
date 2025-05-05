@@ -99,6 +99,4 @@
 
 ---
 
-<p align="center">  
-  “Kod, bir sanat eseridir; her satır yeni bir macera.”  
-</p>
+
