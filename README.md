@@ -19,9 +19,9 @@ Hello! I’m Mustafa Orkun Coşkun — with a foundation in electrical and elect
 
 - ⚡ Passion: Bringing complex data flows to life with real-time dashboards  
 - 🎯 Focus: Performance, scalability, and delivering seamless user experiences  
-- 🛠️ Day-to-day: Building seamless integrations using Next.js, Tailwind CSS, React, and Appwrite  
+- 📅 Day-to-day: Starting my mornings with code reviews and design discussions, then diving into feature development, debugging, and performance tuning—often fueled by coffee and continuous collaboration  
 - 🚀 Goal: Driving business impact and learning growth through innovative projects  
-- 🌱 Always learning: Rapidly exploring and adopting new libraries and technologies  
+- 🌱 Always learning: Rapidly exploring and adopting new libraries and technologies 
 
 ---
 
