@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-Hello! I’m Mustafa Orkun Coşkun — with a foundation in electrical and electronics engineering, I now focus on crafting user-centric web solutions. I’m a proactive and curious problem-solver across both hardware and software domains.
+Hello! I’m Mustafa Orkun Coşkun — with a foundation in electrical and electronics engineering, I now focus on devoloping user-centric web solutions. I’m a proactive and curious problem-solver across both hardware and software domains.
 
 - ⚡ Passion: Bringing complex data flows to life with real-time dashboards  
 - 🎯 Focus: Performance, scalability, and delivering seamless user experiences  
