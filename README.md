@@ -64,9 +64,7 @@ Hello! I’m Mustafa Orkun Coşkun — with a foundation in electrical and elect
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -81,6 +79,11 @@ Hello! I’m Mustafa Orkun Coşkun — with a foundation in electrical and elect
   <img alt=".NET"          src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" />
   <img alt="SQL Server"    src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
   <img alt="PostgreSQL"    src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img alt="React Native"  src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+  <img alt="Expo"          src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+  <img alt="Android"       src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+  <img alt="iOS"           src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
+
 </p>
 
 ---
