@@ -36,7 +36,7 @@ Hello! I’m Mustafa Orkun Coşkun — with a foundation in electrical and elect
   <a href="https://discord.gg/orkuncoskun" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  <a href="mailto:mustafa.coskun@example.com" target="_blank">
+  <a href="mailto:mustafaorkuncoskun@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30" width="40" />
   </a>
 </p>
